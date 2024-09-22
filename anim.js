@@ -16,7 +16,7 @@ var lyricsData = [
   { text: "está dicho que es un hecho", time: 59 },
   { text: "no la pierdas, no hay derecho", time: 61 },
   { text: "no te olvides que la vida casi nunca está dormida", time: 66 },
-  { text: "Perdon la dislexia :v", time:72  },
+  { text: "Perdón si se desincroniza la letra :v", time:72  },
   { text: "en ese bar tan desierto nos esperaba el encuentro", time: 92 },
   { text: "ella llegó en limusina", time: 99 },
   { text: "amarrilla, por su puesto", time: 101 },
